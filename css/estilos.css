@@ -9,6 +9,13 @@ body
     padding: 0;
 }
 
+#imgAmor{
+    height: 320px;
+    width: 320px;
+    display: block;
+    margin: 0 auto;
+}
+
 #cabecera
 {
     background:#37488b;
