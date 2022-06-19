@@ -8,4 +8,4 @@ Un blog increíble para el curso de Git y Github de Platzi
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 
-#####Y como un amable recordatorio: Este readme.md es solo de la practica en platzi.
+Y como un amable recordatorio: Este readme.md es solo de la practica en platzi.
